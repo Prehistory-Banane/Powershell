@@ -11,17 +11,11 @@
 
 
 # Les commandes PowerShell  utilisées pour faire mes recherches  
-`Get-Verb`  
-`Get-Command *copy*`  
-`Get-Help Copy-Item`  
-`Get-Command *remove*`  
-`Get-Help Copy-Item`  
-`Get-Command *set*`  
-`Get-Help Set-Location`  
-`Get-Command *new*`  
-`Get-Help New-Item`  
-`Get-Help New-Item  -detailed`  
-`Get-Command *get*`  
-`Get-Help Get-History`  
-`Get-Help Get-Alias`  
-`Get-Help Get-Content`  
+`get-help cp`  
+`get-help rm`  
+`get-help cd`  
+`get-help mkdir`  
+`get-help man`  
+`get-help history`  
+`get-help alias`  
+`get-help cat`  
