@@ -1,13 +1,13 @@
 # Équivalent des commandes Shell Bash et PowerShell  
 
-* copy ==> Copy-Item  
-* remove ==> Remove-Item  
-* change directory ==> Set-Location  
-* make directory ==> New-item -ItemType Directory  
-* manual ==> Get-Help  
-* history ==> Get-History  
-* alias ==> Get-Alias  
-* concatenate ==> Get-Content
+* copy > Copy-Item  
+* remove > Remove-Item  
+* change directory > Set-Location  
+* make directory > New-item -ItemType Directory  
+* manual > Get-Help  
+* history > Get-History  
+* alias > Get-Alias  
+* concatenate > Get-Content
 
 
 # Les commandes PowerShell  utilisées pour faire mes recherches  
